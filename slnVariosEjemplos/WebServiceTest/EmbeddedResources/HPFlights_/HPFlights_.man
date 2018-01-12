@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>5ea7daba-0f35-479c-8553-51a6589b6e35</ID>
+  <Name>HPFlights_</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2018-01-10T15:40:52.324272-05:00</CreationDate>
+  <UpdateDate>2018-01-10T15:40:52.324272-05:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>b76bb07f-73b9-44fc-93d4-eccd068bef26.xml</MetaDataSignatureFile>
+  <TestResourceId>b76bb07f-73b9-44fc-93d4-eccd068bef26</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>14.1.2301.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>F:\Git\UFT Git Integration\slnVariosEjemplos\WebServiceTest\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>F:\Git\UFT Git Integration\slnVariosEjemplos\WebServiceTest\EmbeddedResources\HPFlights_</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>14.1.2301.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
