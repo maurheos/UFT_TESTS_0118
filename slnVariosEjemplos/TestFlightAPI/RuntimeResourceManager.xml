@@ -1,0 +1,4 @@
+<RuntimeResourceManager>
+<RuntimeResource><Key>{Cambiar Texto_InputPropertiesOutputProperties_1!MainDetails.TablePath}</Key><Path>Local</Path><Value>Cambiar Texto_InputPropertiesOutputProperties_1\Cambiar Texto_InputPropertiesOutputProperties_1.xls</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{Cambiar Texto_InputPropertiesOutputProperties_1!SearchReplaceString.TablePath}</Key><Path>Local</Path><Value>Cambiar Texto_InputPropertiesOutputProperties_1\Cambiar Texto_InputPropertiesOutputProperties_1.xls</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+</RuntimeResourceManager>
