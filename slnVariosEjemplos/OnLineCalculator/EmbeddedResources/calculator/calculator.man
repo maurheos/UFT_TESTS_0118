@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>38db0576-60ae-454f-ab29-df0c3937d641</ID>
+  <Name>calculator</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2017-12-07T09:58:55.6851606-05:00</CreationDate>
+  <UpdateDate>2017-12-07T09:58:55.6851606-05:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>e37a8b98-c07c-431b-b274-0e220a62b9fa.xml</MetaDataSignatureFile>
+  <TestResourceId>e37a8b98-c07c-431b-b274-0e220a62b9fa</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>14.1.2301.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>F:\Git\UFT Git Integration\slnVariosEjemplos\OnLineCalculator\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>F:\Git\UFT Git Integration\slnVariosEjemplos\OnLineCalculator\EmbeddedResources\calculator</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>14.1.2301.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
